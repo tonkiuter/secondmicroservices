@@ -1,6 +1,7 @@
 package org.okaru.fraud;
 
 import lombok.extern.slf4j.Slf4j;
+import org.okaru.clients.fraud.FraudResponse;
 import org.springframework.web.bind.annotation.*;
 
 @RestController

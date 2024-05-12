@@ -13,10 +13,10 @@ public class CustomerConfig {
         return new CustomerService();
     }
 
-    @Bean
-    @LoadBalanced
-    RestTemplate restTemplate(){
-        return new RestTemplate();
-    }
+//    @Bean
+//    @LoadBalanced
+//    RestTemplate restTemplate(){
+//        return new RestTemplate();
+//    }
 
 }

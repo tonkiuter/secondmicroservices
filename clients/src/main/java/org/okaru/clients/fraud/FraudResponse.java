@@ -1,4 +1,4 @@
-package org.okaru.customer;
+package org.okaru.clients.fraud;
 
 public class FraudResponse {
     Boolean isFraudster;
